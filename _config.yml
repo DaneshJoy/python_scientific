@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site Settings
+locale                    : "fa-IR"
+title                     : "Scientific Python"
+name                      : "سعید محققی Saeed Mohagheghi"
+
+description               : "آموزش پایتون برای برنامه نویسی علمی"
+show_downloads            : true
